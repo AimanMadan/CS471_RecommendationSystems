@@ -40,7 +40,7 @@ The following tools and libraries are used in this project:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-recommendation-system.git
+   git clone https://github.com/AimanMadan/CS471_RecommendationSystemsgit
    cd spotify-recommendation-system
    ```
 2. Install dependencies:
