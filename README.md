@@ -40,7 +40,7 @@ The following tools and libraries are used in this project:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AimanMadan/CS471_RecommendationSystemsgit
+   git clone https://github.com/AimanMadan/CS471_RecommendationSystems.git
    cd CS471_RecommendationSystems
    ```
 2. Install dependencies:
