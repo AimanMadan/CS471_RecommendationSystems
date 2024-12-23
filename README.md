@@ -1,5 +1,5 @@
 
-# Spotify Music Recommendation System
+# Music Recommendation System
 
 ## Project Overview
 This project focuses on building a content-based music recommendation system using data from the 2000s to 2010s. By analyzing track audio features and metadata, the system predicts user preferences and recommends songs. The dataset is sourced from Spotify's Web API and includes hit tracks.
